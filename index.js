@@ -123,7 +123,7 @@ async function handleBreedSelect() {
       }
     });
   } catch (error) {
-    console.error("Error fetching breed information:", error);
+    console.error("Error fetching  the breed information:", error);
   }
 }
 
