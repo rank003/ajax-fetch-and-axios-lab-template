@@ -1,6 +1,6 @@
 import * as Carousel from "./Carousel.js"; // Import Carousel functions
 import axios from "axios"; // Import Axios for HTTP requests
-// relp
+// relp // relp again
 // The breed selection input element.
 const breedSelect = document.getElementById("breedSelect");
 // The information section div element.
